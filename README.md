@@ -1,2 +1,1 @@
-# movie-admin
-# obs-dashboard-layout
+# dashboard-layout
